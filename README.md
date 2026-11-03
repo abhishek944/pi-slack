@@ -1,3 +1,6 @@
+> **Moved to Astack**
+> This repository is archived and read-only. Development is maintained in the [Astack monorepo](https://github.com/abhishek944/astack); see [services/pi-slack](https://github.com/abhishek944/astack/tree/main/services/pi-slack).
+
 # pi-slack
 
 A small background **Slack to Pi gateway service**. It runs as a normal Node process managed by
